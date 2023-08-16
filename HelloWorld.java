@@ -36,10 +36,7 @@ public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, World");
     System.out.println("Hello, World");
-    System.out.println("Hello, World");
-    System.out.println("Hello, World");
-    System.out.println("Codeingrad");
-    System.out.println("Codeingrad");
+    System.out.println("Codeingrad")
     System.out.println("Codeingrad");
     System.out.println("ramakrishna");
     System.out.println("Zee enetrtainment enterprises ltd");
